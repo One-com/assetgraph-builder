@@ -1,5 +1,5 @@
 {
-  "name": "assetgraph-builder",
+  "name": "@one.com/assetgraph-builder",
   "description": "Build system for web sites and applications",
   "repository": "git://github.com/One-com/assetgraph-builder.git",
   "version": "4.14.4",
@@ -49,7 +49,7 @@
     "esmangle": "^1.0.1",
     "esprima": "^2.7.2",
     "estraverse": "^4.2.0",
-    "express-processimage": "git://github.com/One-com/express-processimage.git#v5.10",
+    "@one.com/express-processimage": "5.10.1",
     "extend": "^3.0.0",
     "jpegtran": "1.0.4",
     "lodash": "^4.12.0",
